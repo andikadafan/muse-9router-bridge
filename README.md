@@ -2,6 +2,8 @@
 
 Jadikan **Muse AI kamu sendiri** sebagai model yang bisa dipakai lewat **9Router**, tanpa API key eksternal dan tanpa biaya per token ke pihak ketiga.
 
+*English version: [README-en.md](README-en.md)*
+
 ## Cara pakai
 
 1. Pilih topologimu di tabel bawah.
